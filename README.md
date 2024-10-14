@@ -1,6 +1,7 @@
 
+ <h1 align="center">Hi 👋, I'm Eyob Teshome</h1>
 # 💫 About Me:
-I am currently working on a Habit Tracker  Web App<br>
+<h3 align="center">A passionate frontend developer and Graphics Designer</h3>
 
 
 ## 🌐 Socials:
