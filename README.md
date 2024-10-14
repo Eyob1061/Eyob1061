@@ -1,6 +1,6 @@
 
  <h1 align="center">Hi 👋, I'm Eyob Teshome</h1>
-# 💫 About Me:
+                    💫 About Me:
 <h3 align="center">A passionate frontend developer and Graphics Designer</h3>
 
 
